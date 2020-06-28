@@ -64,7 +64,7 @@ function onFormSubmit(){
     selectedRow.cells[1].innerHTML = formData.lastname;
     selectedRow.cells[2].innerHTML = formData.emailaddress;
     selectedRow.cells[3].innerHTML = formData.gender;
-    selectedRow.cells[4].innerHTML = formData.ecentlycameintoNigeria;
+    selectedRow.cells[4].innerHTML = formData.RecentlycameintoNigeria;
   }
   
   function onDelete(td){
